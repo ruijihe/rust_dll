@@ -20,3 +20,6 @@ SEO:
 - Export normal rust lib as DLL `cargo build --lib` 
 - Gen headfile.h  use `cargo run`
 - open visual studio project in vc/rustdll.sln
+
+More detail here
+`https://michael-f-bryan.github.io/rust-ffi-guide/overview.html`
